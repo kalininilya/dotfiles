@@ -126,7 +126,7 @@ client.unfocused        $iancative-bg-color $inactive-bg-color $inactive-text-co
 # bar
 bar {
   font pango: System San Francisco Display 10
-  status_command i3blocks -c /home/booker/.i3/i3blocks.conf
+  status_command i3blocks -c /home/io/.i3/i3blocks.conf
   colors {
 	  background $bg-color
     separator #757575
